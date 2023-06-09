@@ -108,6 +108,12 @@ title: Glossary
 - **Inquiry-Based Learning**:
   The practice of allowing learners to ask their own questions, set
   their own goals, and find their own path through a subject.
+  
+  ** jugyokenkyu
+  Japanese teaching improvement method developed for elementary school teachers.  
+  During professional development, teachers observe each other's teaching styles and approaches. 
+  The observations are meant to elicit feedback as well as provide positive examples 
+  for effective classroom techniques.
 
 - **Lateral Knowledge Transfer**:
   The "accidental" transfer of knowledge that occurs when an instructor
